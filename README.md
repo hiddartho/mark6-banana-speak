@@ -11,7 +11,7 @@
 Link to [Live Project](https://translations-minion.netlify.app/)
 
 ### Minion page:
- ![minionscreenshot](../mark6-banana-speak/screenshot/minion.png)
+ ![minionscreenshot](https://github.com/hiddartho/mark6-banana-speak/blob/main/screenshot/minion.png)
 
 ### API is taken from
 Click Here : [FunTranslationApp](https://funtranslations.com/)
