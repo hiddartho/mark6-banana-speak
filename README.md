@@ -8,7 +8,7 @@
 * Takes in text input and traslates the output into Minion's language 
 * how to fetch API from the server
 
-Link to [Live Project]()
+Link to [Live Project](https://translations-minion.netlify.app/)
 
 ### Minion page:
  ![minionscreenshot](../mark6-banana-speak/screenshot/minion.png)
